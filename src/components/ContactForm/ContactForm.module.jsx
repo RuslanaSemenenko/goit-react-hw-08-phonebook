@@ -35,7 +35,7 @@ export const FormButton = styled('button')`
   padding: 15px 25px;
   font-size: 20px;
   border: none;
-  background-color: #f2e06c;
+  background-color: rgb(186, 109, 52);
   border-radius: 25px;
   cursor: pointer;
   color: white;
